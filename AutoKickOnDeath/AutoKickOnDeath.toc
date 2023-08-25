@@ -1,6 +1,8 @@
 ## Interface: 11404  // or whatever the current interface number is
 ## Title: AutoKickOnDeath
-## Notes: Creates a pop up below the minimap to alert of player deaths that will close automatically in 10 seconds or if you press the close button.  Addon will create a macro on load that needs to be loaded onto your action bars to be pressed to boot players that died.
+## Notes: Creates a pop up below the minimap to alert of player deaths that will close automatically in 10 seconds or if you press the close button.
+## Addon will create a macro on load that needs to be placed onto your action bars to be pressed to gremove players that died.
+## Please give the addon a few seconds to process before pressing the macro or it might not register fast enough.
 ## About: Created by Meatpocket from Asylum Guild in Skull Rock Hardcore server.
 ## Version: 1.0
 AutoKickOnDeath.lua
